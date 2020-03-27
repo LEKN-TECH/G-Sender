@@ -3,4 +3,5 @@ This Smart Controller contains a SD-Card reader, a rotary encoder and a LCD1602 
 
 # Wiring
 Communication with control board via serial port,need to connect TX,RX,VCC(5V),GND pin.
+
 ![image](https://github.com/LEKN-TECH/G-Sender/blob/master/images/Xloader.JPG)
